@@ -1,2 +1,1 @@
-# hello-world
-my new repository
+Am Mkpoikanke, i love programming.
